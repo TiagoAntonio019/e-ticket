@@ -1,5 +1,11 @@
 # e-Ticket
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 e-Ticker é um projeto Mysql feito para ajudar na organização de estacionamento de Shopping.
+
+<img src="https://i.ibb.co/d5BtBDD/e-Ticket-drawio.png" alt="e-Ticket-drawio" border="0">
 
 ## Features
 - Registrar entrada do cliente
