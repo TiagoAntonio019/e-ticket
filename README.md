@@ -16,7 +16,7 @@ e-Ticker é um projeto Mysql feito para ajudar na organização de estacionament
 
 ## Como utilizar
 
-### Instalar MySQL (Container DOcker)
+### Instalar MySQL (Container Docker)
 __Caso você já tenha o MySQL instalado vá para o próximo tópico (preprando o Mysql).__
 
 Baixe a versão mais recente do Mysql
